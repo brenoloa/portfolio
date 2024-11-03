@@ -150,6 +150,7 @@ main {
     flex-direction: column; /* Altera o layout para coluna em telas pequenas */
     gap: 2rem;
     padding: 2rem;
+    background-image: url(https://i.pinimg.com/564x/d6/83/9c/d6839ce90cac48e0f6e6281fa9a46717.jpg);
 }
 
 .project {
@@ -253,4 +254,9 @@ main {
 
 .banner-image.active {
     opacity: 1;
+}
+
+
+#home {
+    background-color: #ddd;
 }
